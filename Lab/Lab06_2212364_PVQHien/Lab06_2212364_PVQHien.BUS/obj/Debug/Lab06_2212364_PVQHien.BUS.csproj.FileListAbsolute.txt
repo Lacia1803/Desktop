@@ -1,0 +1,9 @@
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien.BUS\bin\Debug\Lab06_2212364_PVQHien.BUS.dll
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien.BUS\bin\Debug\Lab06_2212364_PVQHien.BUS.pdb
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien.BUS\bin\Debug\Lab06_2212364_PVQHien.DA.dll
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien.BUS\bin\Debug\Lab06_2212364_PVQHien.DA.pdb
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien.BUS\obj\Debug\Lab06_2212364_PVQHien.BUS.csproj.AssemblyReference.cache
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien.BUS\obj\Debug\Lab06_2212364_PVQHien.BUS.csproj.CoreCompileInputs.cache
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien.BUS\obj\Debug\Lab06_22.D7386010.Up2Date
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien.BUS\obj\Debug\Lab06_2212364_PVQHien.BUS.dll
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien.BUS\obj\Debug\Lab06_2212364_PVQHien.BUS.pdb

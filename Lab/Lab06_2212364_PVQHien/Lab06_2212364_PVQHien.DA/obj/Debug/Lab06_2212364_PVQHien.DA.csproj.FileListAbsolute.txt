@@ -1,0 +1,6 @@
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien.DA\bin\Debug\Lab06_2212364_PVQHien.DA.dll
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien.DA\bin\Debug\Lab06_2212364_PVQHien.DA.pdb
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien.DA\obj\Debug\Lab06_2212364_PVQHien.DA.csproj.AssemblyReference.cache
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien.DA\obj\Debug\Lab06_2212364_PVQHien.DA.csproj.CoreCompileInputs.cache
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien.DA\obj\Debug\Lab06_2212364_PVQHien.DA.dll
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien.DA\obj\Debug\Lab06_2212364_PVQHien.DA.pdb

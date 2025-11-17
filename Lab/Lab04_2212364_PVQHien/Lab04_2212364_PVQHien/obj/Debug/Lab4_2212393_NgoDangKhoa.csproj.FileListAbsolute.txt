@@ -1,0 +1,14 @@
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab4_2212393_NgoDangKhoa\Lab4_2212393_NgoDangKhoa\bin\Debug\Lab06_Basic_Command.exe.config
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab4_2212393_NgoDangKhoa\Lab4_2212393_NgoDangKhoa\bin\Debug\Lab06_Basic_Command.exe
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab4_2212393_NgoDangKhoa\Lab4_2212393_NgoDangKhoa\bin\Debug\Lab06_Basic_Command.pdb
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab4_2212393_NgoDangKhoa\Lab4_2212393_NgoDangKhoa\obj\Debug\Lab4_2212393_NgoDangKhoa.csproj.AssemblyReference.cache
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab4_2212393_NgoDangKhoa\Lab4_2212393_NgoDangKhoa\obj\Debug\Lab06_Basic_Command.AccountManagerForm.resources
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab4_2212393_NgoDangKhoa\Lab4_2212393_NgoDangKhoa\obj\Debug\Lab06_Basic_Command.BillDetailsForm.resources
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab4_2212393_NgoDangKhoa\Lab4_2212393_NgoDangKhoa\obj\Debug\Lab06_Basic_Command.BillsForm.resources
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab4_2212393_NgoDangKhoa\Lab4_2212393_NgoDangKhoa\obj\Debug\Lab06_Basic_Command.frmFood.resources
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab4_2212393_NgoDangKhoa\Lab4_2212393_NgoDangKhoa\obj\Debug\Lab06_Basic_Command.Form1.resources
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab4_2212393_NgoDangKhoa\Lab4_2212393_NgoDangKhoa\obj\Debug\Lab06_Basic_Command.Properties.Resources.resources
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab4_2212393_NgoDangKhoa\Lab4_2212393_NgoDangKhoa\obj\Debug\Lab4_2212393_NgoDangKhoa.csproj.GenerateResource.cache
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab4_2212393_NgoDangKhoa\Lab4_2212393_NgoDangKhoa\obj\Debug\Lab4_2212393_NgoDangKhoa.csproj.CoreCompileInputs.cache
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab4_2212393_NgoDangKhoa\Lab4_2212393_NgoDangKhoa\obj\Debug\Lab06_Basic_Command.exe
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab4_2212393_NgoDangKhoa\Lab4_2212393_NgoDangKhoa\obj\Debug\Lab06_Basic_Command.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab04_2212364_PVQHien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C5CD77-7B8A-46F4-8CAA-481EDA7517D1}|Lab04_2212364_PVQHien\\Lab04_2212364_PVQHien.csproj|c:\\users\\phung\\downloads\\desktop-main\\desktop-main\\lab04_2212364_pvqhien\\lab04_2212364_pvqhien\\accountmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C5CD77-7B8A-46F4-8CAA-481EDA7517D1}|Lab04_2212364_PVQHien\\Lab04_2212364_PVQHien.csproj|solutionrelative:lab04_2212364_pvqhien\\accountmanagerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountManagerForm.cs",
+              "DocumentMoniker": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab04_2212364_PVQHien\\Lab04_2212364_PVQHien\\AccountManagerForm.cs",
+              "RelativeDocumentMoniker": "Lab04_2212364_PVQHien\\AccountManagerForm.cs",
+              "ToolTip": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab04_2212364_PVQHien\\Lab04_2212364_PVQHien\\AccountManagerForm.cs",
+              "RelativeToolTip": "Lab04_2212364_PVQHien\\AccountManagerForm.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAlwLkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T16:47:41.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

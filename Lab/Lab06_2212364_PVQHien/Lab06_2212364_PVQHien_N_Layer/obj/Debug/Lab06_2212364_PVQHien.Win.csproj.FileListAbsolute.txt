@@ -1,0 +1,17 @@
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien_N_Layer\obj\Debug\Lab06_2212364_PVQHien.Win.csproj.AssemblyReference.cache
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien_N_Layer\obj\Debug\Lab06_2212364_PVQHien.Win.frmFood.resources
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien_N_Layer\obj\Debug\Lab06_2212364_PVQHien.Win.frmLogin.resources
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien_N_Layer\obj\Debug\Lab06_2212364_PVQHien.Win.frmMain.resources
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien_N_Layer\obj\Debug\Lab06_2212364_PVQHien.Win.Properties.Resources.resources
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien_N_Layer\obj\Debug\Lab06_2212364_PVQHien.Win.csproj.GenerateResource.cache
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien_N_Layer\obj\Debug\Lab06_2212364_PVQHien.Win.csproj.CoreCompileInputs.cache
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien_N_Layer\bin\Debug\Lab06_2212364_PVQHien.Win.exe.config
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien_N_Layer\bin\Debug\Lab06_2212364_PVQHien.Win.exe
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien_N_Layer\bin\Debug\Lab06_2212364_PVQHien.Win.pdb
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien_N_Layer\bin\Debug\Lab06_2212364_PVQHien.BUS.dll
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien_N_Layer\bin\Debug\Lab06_2212364_PVQHien.DA.dll
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien_N_Layer\bin\Debug\Lab06_2212364_PVQHien.BUS.pdb
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien_N_Layer\bin\Debug\Lab06_2212364_PVQHien.DA.pdb
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien_N_Layer\obj\Debug\Lab06_22.475AE914.Up2Date
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien_N_Layer\obj\Debug\Lab06_2212364_PVQHien.Win.exe
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab06_2212364_PVQHien\Lab06_2212364_PVQHien_N_Layer\obj\Debug\Lab06_2212364_PVQHien.Win.pdb

@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa.csproj|c:\\users\\drago\\downloads\\lab7_2212393_ngodangkhoa\\lab7_2212393_ngodangkhoa\\lab7_2212393_ngodangkhoa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa.csproj|solutionrelative:lab7_2212393_ngodangkhoa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa.csproj|C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\lab7_2212393_ngodangkhoa\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa.csproj|solutionrelative:lab7_2212393_ngodangkhoa\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa.csproj|C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\lab7_2212393_ngodangkhoa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa.csproj|solutionrelative:lab7_2212393_ngodangkhoa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa.csproj|C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\lab7_2212393_ngodangkhoa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa.csproj|solutionrelative:lab7_2212393_ngodangkhoa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa.csproj|C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\lab7_2212393_ngodangkhoa\\models\\restaurantcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa.csproj|solutionrelative:lab7_2212393_ngodangkhoa\\models\\restaurantcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa.csproj|C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\lab7_2212393_ngodangkhoa\\models\\foodmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa.csproj|solutionrelative:lab7_2212393_ngodangkhoa\\models\\foodmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa.csproj|C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\lab7_2212393_ngodangkhoa\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa.csproj|solutionrelative:lab7_2212393_ngodangkhoa\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa.csproj|C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\lab7_2212393_ngodangkhoa\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa.csproj|solutionrelative:lab7_2212393_ngodangkhoa\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa.csproj|C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\lab7_2212393_ngodangkhoa\\updatefoodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa.csproj|solutionrelative:lab7_2212393_ngodangkhoa\\updatefoodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa.csproj|C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\lab7_2212393_ngodangkhoa\\updatefoodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa.csproj|solutionrelative:lab7_2212393_ngodangkhoa\\updatefoodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa.csproj|C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\lab7_2212393_ngodangkhoa\\updatefoodform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa.csproj|solutionrelative:lab7_2212393_ngodangkhoa\\updatefoodform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa.csproj|C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\lab7_2212393_ngodangkhoa\\updatecategoryform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa.csproj|solutionrelative:lab7_2212393_ngodangkhoa\\updatecategoryform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa.csproj|C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\lab7_2212393_ngodangkhoa\\updatecategoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa.csproj|solutionrelative:lab7_2212393_ngodangkhoa\\updatecategoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa.csproj|C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\lab7_2212393_ngodangkhoa\\updatecategoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa.csproj|solutionrelative:lab7_2212393_ngodangkhoa\\updatecategoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Lab7_2212393_NgoDangKhoa\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Models\\Category.cs",
+              "RelativeToolTip": "Lab7_2212393_NgoDangKhoa\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:07:07.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "Lab7_2212393_NgoDangKhoa\\Models\\Food.cs",
+              "ToolTip": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Models\\Food.cs",
+              "RelativeToolTip": "Lab7_2212393_NgoDangKhoa\\Models\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:07:12.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FoodModel.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Models\\FoodModel.cs",
+              "RelativeDocumentMoniker": "Lab7_2212393_NgoDangKhoa\\Models\\FoodModel.cs",
+              "ToolTip": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Models\\FoodModel.cs",
+              "RelativeToolTip": "Lab7_2212393_NgoDangKhoa\\Models\\FoodModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:07:16.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RestaurantContext.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Models\\RestaurantContext.cs",
+              "RelativeDocumentMoniker": "Lab7_2212393_NgoDangKhoa\\Models\\RestaurantContext.cs",
+              "ToolTip": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Models\\RestaurantContext.cs",
+              "RelativeToolTip": "Lab7_2212393_NgoDangKhoa\\Models\\RestaurantContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:07:18.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab7_2212393_NgoDangKhoa\\Form1.cs",
+              "ToolTip": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Form1.cs",
+              "RelativeToolTip": "Lab7_2212393_NgoDangKhoa\\Form1.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA3wBcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:02:22.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Program.cs",
+              "RelativeDocumentMoniker": "Lab7_2212393_NgoDangKhoa\\Program.cs",
+              "ToolTip": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Program.cs",
+              "RelativeToolTip": "Lab7_2212393_NgoDangKhoa\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:02:11.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Lab7_2212393_NgoDangKhoa\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Form1.Designer.cs",
+              "RelativeToolTip": "Lab7_2212393_NgoDangKhoa\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:02:32.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab7_2212393_NgoDangKhoa\\Form1.cs",
+              "ToolTip": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab7_2212393_NgoDangKhoa\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:02:18.831Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateFoodForm.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\UpdateFoodForm.cs",
+              "RelativeDocumentMoniker": "Lab7_2212393_NgoDangKhoa\\UpdateFoodForm.cs",
+              "ToolTip": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\UpdateFoodForm.cs",
+              "RelativeToolTip": "Lab7_2212393_NgoDangKhoa\\UpdateFoodForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:02:58.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateFoodForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\UpdateFoodForm.cs",
+              "RelativeDocumentMoniker": "Lab7_2212393_NgoDangKhoa\\UpdateFoodForm.cs",
+              "ToolTip": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\UpdateFoodForm.cs [Design]",
+              "RelativeToolTip": "Lab7_2212393_NgoDangKhoa\\UpdateFoodForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:02:55.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateFoodForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\UpdateFoodForm.Designer.cs",
+              "RelativeDocumentMoniker": "Lab7_2212393_NgoDangKhoa\\UpdateFoodForm.Designer.cs",
+              "ToolTip": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\UpdateFoodForm.Designer.cs",
+              "RelativeToolTip": "Lab7_2212393_NgoDangKhoa\\UpdateFoodForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:03:05.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateCategoryForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\UpdateCategoryForm.Designer.cs",
+              "RelativeDocumentMoniker": "Lab7_2212393_NgoDangKhoa\\UpdateCategoryForm.Designer.cs",
+              "ToolTip": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\UpdateCategoryForm.Designer.cs",
+              "RelativeToolTip": "Lab7_2212393_NgoDangKhoa\\UpdateCategoryForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:02:45.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateCategoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\UpdateCategoryForm.cs",
+              "RelativeDocumentMoniker": "Lab7_2212393_NgoDangKhoa\\UpdateCategoryForm.cs",
+              "ToolTip": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\UpdateCategoryForm.cs",
+              "RelativeToolTip": "Lab7_2212393_NgoDangKhoa\\UpdateCategoryForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:02:39.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateCategoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\UpdateCategoryForm.cs",
+              "RelativeDocumentMoniker": "Lab7_2212393_NgoDangKhoa\\UpdateCategoryForm.cs",
+              "ToolTip": "C:\\Users\\drago\\Downloads\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\Lab7_2212393_NgoDangKhoa\\UpdateCategoryForm.cs [Design]",
+              "RelativeToolTip": "Lab7_2212393_NgoDangKhoa\\UpdateCategoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T05:02:36.742Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

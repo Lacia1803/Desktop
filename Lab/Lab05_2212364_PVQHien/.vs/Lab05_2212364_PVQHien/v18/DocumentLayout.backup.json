@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab05_2212364_PVQHien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CE285C-1307-4041-B97B-3336788BDCE1}|Lab05_2212364_PVQHien\\Lab05_2212364_PVQHien.csproj|c:\\users\\phung\\downloads\\desktop-main\\desktop-main\\lab05_2212364_pvqhien\\lab05_2212364_pvqhien\\ordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0CE285C-1307-4041-B97B-3336788BDCE1}|Lab05_2212364_PVQHien\\Lab05_2212364_PVQHien.csproj|solutionrelative:lab05_2212364_pvqhien\\ordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CE285C-1307-4041-B97B-3336788BDCE1}|Lab05_2212364_PVQHien\\Lab05_2212364_PVQHien.csproj|C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab05_2212364_PVQHien\\lab05_2212364_pvqhien\\orderdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0CE285C-1307-4041-B97B-3336788BDCE1}|Lab05_2212364_PVQHien\\Lab05_2212364_PVQHien.csproj|solutionrelative:lab05_2212364_pvqhien\\orderdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CE285C-1307-4041-B97B-3336788BDCE1}|Lab05_2212364_PVQHien\\Lab05_2212364_PVQHien.csproj|C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab05_2212364_PVQHien\\lab05_2212364_pvqhien\\formfoodinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0CE285C-1307-4041-B97B-3336788BDCE1}|Lab05_2212364_PVQHien\\Lab05_2212364_PVQHien.csproj|solutionrelative:lab05_2212364_pvqhien\\formfoodinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CE285C-1307-4041-B97B-3336788BDCE1}|Lab05_2212364_PVQHien\\Lab05_2212364_PVQHien.csproj|C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab05_2212364_PVQHien\\lab05_2212364_pvqhien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0CE285C-1307-4041-B97B-3336788BDCE1}|Lab05_2212364_PVQHien\\Lab05_2212364_PVQHien.csproj|solutionrelative:lab05_2212364_pvqhien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab05_2212364_PVQHien\\Lab05_2212364_PVQHien\\OrdersForm.cs",
+              "RelativeDocumentMoniker": "Lab05_2212364_PVQHien\\OrdersForm.cs",
+              "ToolTip": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab05_2212364_PVQHien\\Lab05_2212364_PVQHien\\OrdersForm.cs [Design]",
+              "RelativeToolTip": "Lab05_2212364_PVQHien\\OrdersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:36:49.777Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormFoodInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab05_2212364_PVQHien\\Lab05_2212364_PVQHien\\FormFoodInfo.cs",
+              "RelativeDocumentMoniker": "Lab05_2212364_PVQHien\\FormFoodInfo.cs",
+              "ToolTip": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab05_2212364_PVQHien\\Lab05_2212364_PVQHien\\FormFoodInfo.cs [Design]",
+              "RelativeToolTip": "Lab05_2212364_PVQHien\\FormFoodInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:36:48.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab05_2212364_PVQHien\\Lab05_2212364_PVQHien\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab05_2212364_PVQHien\\Form1.cs",
+              "ToolTip": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab05_2212364_PVQHien\\Lab05_2212364_PVQHien\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab05_2212364_PVQHien\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:36:44.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDetailsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab05_2212364_PVQHien\\Lab05_2212364_PVQHien\\OrderDetailsForm.cs",
+              "RelativeDocumentMoniker": "Lab05_2212364_PVQHien\\OrderDetailsForm.cs",
+              "ToolTip": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab05_2212364_PVQHien\\Lab05_2212364_PVQHien\\OrderDetailsForm.cs [Design]",
+              "RelativeToolTip": "Lab05_2212364_PVQHien\\OrderDetailsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:36:43.941Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

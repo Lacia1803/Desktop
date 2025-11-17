@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien.csproj|c:\\users\\phung\\downloads\\desktop-main\\desktop-main\\lab07_2212364_pvqhien\\lab07_2212364_pvqhien\\lab07_2212364_pvqhien\\lab07_2212364_pvqhien\\updatetableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien.csproj|solutionrelative:lab07_2212364_pvqhien\\updatetableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien.csproj|C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\lab07_2212364_pvqhien\\updatefoodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien.csproj|solutionrelative:lab07_2212364_pvqhien\\updatefoodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien.csproj|C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\lab07_2212364_pvqhien\\updatecategoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien.csproj|solutionrelative:lab07_2212364_pvqhien\\updatecategoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien.csproj|C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\lab07_2212364_pvqhien\\updateaccountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien.csproj|solutionrelative:lab07_2212364_pvqhien\\updateaccountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien.csproj|C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\lab07_2212364_pvqhien\\tablemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien.csproj|solutionrelative:lab07_2212364_pvqhien\\tablemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien.csproj|C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\lab07_2212364_pvqhien\\accountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien.csproj|solutionrelative:lab07_2212364_pvqhien\\accountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien.csproj|C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\lab07_2212364_pvqhien\\accountrolesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien.csproj|solutionrelative:lab07_2212364_pvqhien\\accountrolesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien.csproj|C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\lab07_2212364_pvqhien\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien.csproj|solutionrelative:lab07_2212364_pvqhien\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien.csproj|C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\lab07_2212364_pvqhien\\billdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien.csproj|solutionrelative:lab07_2212364_pvqhien\\billdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien.csproj|C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\lab07_2212364_pvqhien\\billsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien.csproj|solutionrelative:lab07_2212364_pvqhien\\billsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien.csproj|C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\lab07_2212364_pvqhien\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien.csproj|solutionrelative:lab07_2212364_pvqhien\\changepasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien.csproj|C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\lab07_2212364_pvqhien\\foodmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien.csproj|solutionrelative:lab07_2212364_pvqhien\\foodmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien.csproj|C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\lab07_2212364_pvqhien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien.csproj|solutionrelative:lab07_2212364_pvqhien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien.csproj|C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\lab07_2212364_pvqhien\\roleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66552204-C856-4DB3-AC54-8EC491698A95}|Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien.csproj|solutionrelative:lab07_2212364_pvqhien\\roleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\AccountForm.cs",
+              "RelativeDocumentMoniker": "Lab07_2212364_PVQHien\\AccountForm.cs",
+              "ToolTip": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\AccountForm.cs [Design]",
+              "RelativeToolTip": "Lab07_2212364_PVQHien\\AccountForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:59:24.836Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountRolesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\AccountRolesForm.cs",
+              "RelativeDocumentMoniker": "Lab07_2212364_PVQHien\\AccountRolesForm.cs",
+              "ToolTip": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\AccountRolesForm.cs [Design]",
+              "RelativeToolTip": "Lab07_2212364_PVQHien\\AccountRolesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:59:22.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TableManagementForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\TableManagementForm.cs",
+              "RelativeDocumentMoniker": "Lab07_2212364_PVQHien\\TableManagementForm.cs",
+              "ToolTip": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\TableManagementForm.cs [Design]",
+              "RelativeToolTip": "Lab07_2212364_PVQHien\\TableManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:54:18.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateCategoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\UpdateCategoryForm.cs",
+              "RelativeDocumentMoniker": "Lab07_2212364_PVQHien\\UpdateCategoryForm.cs",
+              "ToolTip": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\UpdateCategoryForm.cs [Design]",
+              "RelativeToolTip": "Lab07_2212364_PVQHien\\UpdateCategoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:54:10.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateAccountForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\UpdateAccountForm.cs",
+              "RelativeDocumentMoniker": "Lab07_2212364_PVQHien\\UpdateAccountForm.cs",
+              "ToolTip": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\UpdateAccountForm.cs [Design]",
+              "RelativeToolTip": "Lab07_2212364_PVQHien\\UpdateAccountForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:54:20.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateFoodForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\UpdateFoodForm.cs",
+              "RelativeDocumentMoniker": "Lab07_2212364_PVQHien\\UpdateFoodForm.cs",
+              "ToolTip": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\UpdateFoodForm.cs [Design]",
+              "RelativeToolTip": "Lab07_2212364_PVQHien\\UpdateFoodForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:54:23.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateTableForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\UpdateTableForm.cs",
+              "RelativeDocumentMoniker": "Lab07_2212364_PVQHien\\UpdateTableForm.cs",
+              "ToolTip": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\UpdateTableForm.cs [Design]",
+              "RelativeToolTip": "Lab07_2212364_PVQHien\\UpdateTableForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:54:25.559Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\App.config",
+              "RelativeDocumentMoniker": "Lab07_2212364_PVQHien\\App.config",
+              "ToolTip": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\App.config",
+              "RelativeToolTip": "Lab07_2212364_PVQHien\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-17T13:59:20.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BillDetailsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\BillDetailsForm.cs",
+              "RelativeDocumentMoniker": "Lab07_2212364_PVQHien\\BillDetailsForm.cs",
+              "ToolTip": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\BillDetailsForm.cs [Design]",
+              "RelativeToolTip": "Lab07_2212364_PVQHien\\BillDetailsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:59:15.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BillsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\BillsForm.cs",
+              "RelativeDocumentMoniker": "Lab07_2212364_PVQHien\\BillsForm.cs",
+              "ToolTip": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\BillsForm.cs [Design]",
+              "RelativeToolTip": "Lab07_2212364_PVQHien\\BillsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:59:13.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChangePasswordForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\ChangePasswordForm.cs",
+              "RelativeDocumentMoniker": "Lab07_2212364_PVQHien\\ChangePasswordForm.cs",
+              "ToolTip": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\ChangePasswordForm.cs [Design]",
+              "RelativeToolTip": "Lab07_2212364_PVQHien\\ChangePasswordForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:59:11.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FoodManagementForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\FoodManagementForm.cs",
+              "RelativeDocumentMoniker": "Lab07_2212364_PVQHien\\FoodManagementForm.cs",
+              "ToolTip": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\FoodManagementForm.cs [Design]",
+              "RelativeToolTip": "Lab07_2212364_PVQHien\\FoodManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:59:08.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab07_2212364_PVQHien\\Form1.cs",
+              "ToolTip": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab07_2212364_PVQHien\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:59:05.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoleForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\RoleForm.cs",
+              "RelativeDocumentMoniker": "Lab07_2212364_PVQHien\\RoleForm.cs",
+              "ToolTip": "C:\\Users\\phung\\Downloads\\Desktop-main\\Desktop-main\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\Lab07_2212364_PVQHien\\RoleForm.cs [Design]",
+              "RelativeToolTip": "Lab07_2212364_PVQHien\\RoleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:54:12.337Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

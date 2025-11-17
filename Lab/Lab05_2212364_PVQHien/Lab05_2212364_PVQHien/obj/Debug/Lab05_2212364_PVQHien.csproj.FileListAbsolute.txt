@@ -1,0 +1,14 @@
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab05_2212364_PVQHien\Lab05_2212364_PVQHien\bin\Debug\Lab05_2212364_PVQHien.exe.config
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab05_2212364_PVQHien\Lab05_2212364_PVQHien\bin\Debug\Lab05_2212364_PVQHien.exe
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab05_2212364_PVQHien\Lab05_2212364_PVQHien\bin\Debug\Lab05_2212364_PVQHien.pdb
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab05_2212364_PVQHien\Lab05_2212364_PVQHien\obj\Debug\Lab05_2212364_PVQHien.csproj.AssemblyReference.cache
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab05_2212364_PVQHien\Lab05_2212364_PVQHien\obj\Debug\Lab05_2212364_PVQHien.AccountForm.resources
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab05_2212364_PVQHien\Lab05_2212364_PVQHien\obj\Debug\Lab05_2212364_PVQHien.Form1.resources
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab05_2212364_PVQHien\Lab05_2212364_PVQHien\obj\Debug\Lab05_2212364_PVQHien.FormFoodInfo.resources
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab05_2212364_PVQHien\Lab05_2212364_PVQHien\obj\Debug\Lab05_2212364_PVQHien.OrderDetailsForm.resources
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab05_2212364_PVQHien\Lab05_2212364_PVQHien\obj\Debug\Lab05_2212364_PVQHien.OrdersForm.resources
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab05_2212364_PVQHien\Lab05_2212364_PVQHien\obj\Debug\Lab05_2212364_PVQHien.Properties.Resources.resources
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab05_2212364_PVQHien\Lab05_2212364_PVQHien\obj\Debug\Lab05_2212364_PVQHien.csproj.GenerateResource.cache
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab05_2212364_PVQHien\Lab05_2212364_PVQHien\obj\Debug\Lab05_2212364_PVQHien.csproj.CoreCompileInputs.cache
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab05_2212364_PVQHien\Lab05_2212364_PVQHien\obj\Debug\Lab05_2212364_PVQHien.exe
+C:\Users\phung\Downloads\Desktop-main\Desktop-main\Lab05_2212364_PVQHien\Lab05_2212364_PVQHien\obj\Debug\Lab05_2212364_PVQHien.pdb
